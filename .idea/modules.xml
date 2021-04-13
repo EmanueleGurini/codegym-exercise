@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CodeJim.iml" filepath="$PROJECT_DIR$/CodeJim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeGim.iml" filepath="$PROJECT_DIR$/CodeGim.iml" />
     </modules>
   </component>
 </project>
